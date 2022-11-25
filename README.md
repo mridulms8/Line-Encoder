@@ -13,6 +13,6 @@ On the right, we have a Random Input Generator in which we can input the minimum
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/90443656/203947552-d75d06d2-da3f-47d4-8b70-8ac77290d2ad.png)
-![image](https://user-images.githubusercontent.com/90443656/203947648-ef316ab6-1582-488e-a816-3da0be3afcaf.png)
-![image](https://user-images.githubusercontent.com/90443656/203947756-cbb4e7eb-ca3e-48de-83ea-ad0c10dba839.png)
-![image](https://user-images.githubusercontent.com/90443656/203947795-11b9d695-37fe-4fdc-93f2-c3bb2dd50406.png)
+    ![image](https://user-images.githubusercontent.com/90443656/203947648-ef316ab6-1582-488e-a816-3da0be3afcaf.png)
+    ![image](https://user-images.githubusercontent.com/90443656/203947756-cbb4e7eb-ca3e-48de-83ea-ad0c10dba839.png)
+    ![image](https://user-images.githubusercontent.com/90443656/203947795-11b9d695-37fe-4fdc-93f2-c3bb2dd50406.png)
