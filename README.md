@@ -19,5 +19,5 @@ On the right, we have a Random Input Generator in which we can input the minimum
     ![image](https://user-images.githubusercontent.com/90443656/203947756-cbb4e7eb-ca3e-48de-83ea-ad0c10dba839.png)
     ![image](https://user-images.githubusercontent.com/90443656/203947795-11b9d695-37fe-4fdc-93f2-c3bb2dd50406.png)
 
-# Contributed by
+# Created by
 Me, Ketan Sharma, Japsimar Soin
